@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg696"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs700" />
+  <sodipodi:namedview
+     id="namedview698"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.095"
+     inkscape:cx="100.47733"
+     inkscape:cy="100.23866"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="644"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg696" />
+  <circle
+     cx="100"
+     cy="100"
+     r="80"
+     fill="#FFC107"
+     id="circle686" />
+  <text
+     x="36.145782"
+     y="-289.68027"
+     text-anchor="middle"
+     dy="27.786066"
+     fill="#000000"
+     font-family="Arial, sans-serif"
+     font-size="79.3889px"
+     font-weight="bold"
+     id="text694"
+     transform="scale(2.7314756,-0.36610249)"
+     style="stroke-width:7.93889"><tspan
+       x="36.145782"
+       dy="-15.877751"
+       id="tspan688"
+       style="stroke-width:7.93889">D</tspan><tspan
+       x="36.145782"
+       dy="95.26651"
+       id="tspan690"
+       style="stroke-width:7.93889">T</tspan><tspan
+       x="36.145782"
+       dy="95.26651"
+       id="tspan692"
+       style="stroke-width:7.93889">F</tspan></text>
+</svg>
