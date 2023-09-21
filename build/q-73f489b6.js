@@ -1,0 +1,1 @@
+import{h as n,$ as s,w as a,x as e}from"./q-c433d57b.js";const t="_primary_kdmj4_1",c="_secondary_kdmj4_5",o={primary:t,secondary:c,default:"_default_kdmj4_9"},u=r=>n(e,{children:s("section",{class:o[r.style]},null,s("h1",null,null,a(l=>l.category.name,[r]),3,null),3,null)},1,"hs_0");export{u as s_zRDDOuulreE};
