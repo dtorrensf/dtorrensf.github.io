@@ -1,1 +1,0 @@
-const e={categories:[{name:"backend",tecnologies:[{name:"Java"}]},{name:"frontend",tecnologies:[{name:"Angular"}]},{name:"QA",tecnologies:[{name:"Sonar"}]}]},n=()=>e.categories.map(a=>a.name),o=()=>e.categories;export{o as a,n as g};
