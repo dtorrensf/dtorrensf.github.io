@@ -1,0 +1,1 @@
+import{O as a,c as n,_ as r}from"./q-8aef3dbe.js";const i=a(n(()=>r(()=>import("./q-51550735.js"),["build/q-51550735.js","build/q-8aef3dbe.js"]),"s_zRDDOuulreE"));function p(e){const t=e.startExp?new Date(e.startExp):new Date;return((e.endExp?new Date(e.endExp):new Date).getFullYear()-t.getFullYear()).toString()}export{i as S,p as c};
