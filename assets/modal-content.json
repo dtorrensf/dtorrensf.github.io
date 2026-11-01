@@ -1,0 +1,233 @@
+{
+  "skills": [
+    {
+      "category": "IA & Agentes",
+      "icon": "🤖",
+      "skills": [
+        {
+          "name": "Claude · OpenCode · pi",
+          "category": "ai",
+          "description": "Integración avanzada de agentes de código en el flujo de ingeniería para acelerar entregas manteniendo arquitectura consistente y calidad verificable."
+        },
+        {
+          "name": "Servidores MCP & ACP",
+          "category": "ai",
+          "description": "Diseño e implementación de servidores Model Context Protocol e integraciones ACP con contratos tipados (JSON Schema) para conectar agentes LLM con herramientas y datos reales."
+        },
+        {
+          "name": "Skills & Context Engineering",
+          "category": "ai",
+          "description": "Creación de skills reutilizables, guías AGENTS.md y estrategias de compactación de contexto adaptadas a frameworks corporativos y proyectos propios."
+        },
+        {
+          "name": "Flujos Agentic",
+          "category": "ai",
+          "description": "Orquestación de desarrollo asistido por IA con validación automática mediante tests, linters y gestión estructurada de tareas."
+        },
+        {
+          "name": "JSON Schema",
+          "category": "ai",
+          "description": "Definición y generación automática de contratos tipados para validar entradas y salidas en tools de agentes LLM y APIs."
+        }
+      ]
+    },
+    {
+      "category": "Backend",
+      "icon": "⚙️",
+      "skills": [
+        {
+          "name": "Java",
+          "category": "backend",
+          "description": "Aplicaciones backend, librerías corporativas y herramientas CLI mantenibles, testeadas y listas para evolucionar en entornos enterprise."
+        },
+        {
+          "name": "Spring Boot",
+          "category": "backend",
+          "description": "Microservicios cloud-native, starters reutilizables y arquitecturas orientadas a eventos con REST y Apache Kafka listas para producción."
+        },
+        {
+          "name": "Rust",
+          "category": "backend",
+          "description": "Herramientas CLI/TUI de alto rendimiento y servidores MCP concurrentes con seguridad de memoria, arranque instantáneo y consumo mínimo de recursos."
+        },
+        {
+          "name": "Tokio",
+          "category": "backend",
+          "description": "Runtime asíncrono en Rust para construir servidores MCP y servicios de entrada/salida concurrentes y no bloqueantes."
+        },
+        {
+          "name": "SQL & SQLite",
+          "category": "backend",
+          "description": "Diseño de esquemas relacionales, migraciones versionadas y persistencia tanto en motores servidor (PostgreSQL) como embebidos (SQLite con rusqlite y refinery)."
+        }
+      ]
+    },
+    {
+      "category": "Frontend",
+      "icon": "💻",
+      "skills": [
+        {
+          "name": "Angular",
+          "category": "frontend",
+          "description": "Aplicaciones web modernas, accesibles (WCAG AA) y rápidas con componentes standalone, signals y renderizado en servidor (SSR)."
+        },
+        {
+          "name": "TypeScript",
+          "category": "frontend",
+          "description": "Código tipado en modo estricto tanto para interfaces web como para frameworks de automatización, reduciendo errores antes de llegar a producción."
+        },
+        {
+          "name": "Ratatui (TUI)",
+          "category": "frontend",
+          "description": "Interfaces de usuario en terminal (TUI) rápidas, accesibles por teclado y multiplataforma construidas en Rust junto a Crossterm."
+        }
+      ]
+    },
+    {
+      "category": "Testing",
+      "icon": "🧪",
+      "skills": [
+        {
+          "name": "Unitarios & Snapshot",
+          "category": "testing",
+          "description": "Redes de seguridad rápidas con JUnit 5, Mockito, Vitest y snapshot testing en Rust (insta) para refactorizar y evolucionar código con confianza."
+        },
+        {
+          "name": "Integración",
+          "category": "testing",
+          "description": "Validación realista de servicios, persistencia y contratos HTTP mediante Testcontainers, WireMock y pruebas de contrato."
+        },
+        {
+          "name": "E2E Tests",
+          "category": "testing",
+          "description": "Automatización end-to-end con Playwright y frameworks funcionales propios que protegen los flujos críticos de usuario en cada entrega."
+        },
+        {
+          "name": "SonarQube",
+          "category": "testing",
+          "description": "Control continuo de calidad estática, cobertura y deuda técnica integrado en el ciclo de desarrollo."
+        }
+      ]
+    },
+    {
+      "category": "DevOps",
+      "icon": "🚀",
+      "skills": [
+        {
+          "name": "Docker",
+          "category": "devops",
+          "description": "Entornos reproducibles para desarrollo, pruebas de integración y despliegue mediante contenedores ligeros y Docker Compose."
+        },
+        {
+          "name": "Kubernetes",
+          "category": "devops",
+          "description": "Despliegues orquestados, escalables y resilientes de microservicios en clústeres para entornos enterprise."
+        },
+        {
+          "name": "Git & CI/CD",
+          "category": "devops",
+          "description": "Estrategias de ramas claras y pipelines automatizados de build, test y análisis que acortan el ciclo hasta producción."
+        }
+      ]
+    },
+    {
+      "category": "Agile",
+      "icon": "📋",
+      "skills": [
+        {
+          "name": "Scrum Master",
+          "category": "agile",
+          "description": "Facilitación de equipos ágiles, eliminación de bloqueos y mejora continua para entregar valor de forma predecible e iterativa."
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Agent & Software Engineer",
+      "period": "Actualidad",
+      "description": "Diseño e integro agentes de IA, servidores MCP/ACP y herramientas en Rust para acelerar entregas de software con arquitectura consistente y calidad verificable.",
+      "achievements": [
+        "Diseño y construyo skills para agentes de IA (Claude, OpenCode, pi) adaptadas a frameworks corporativos de cliente, estandarizando decisiones técnicas y reduciendo la fricción al desarrollar.",
+        "Implemento servidores MCP (Model Context Protocol) e integraciones ACP con contratos tipados (JSON Schema) y gestión de contexto para conectar agentes LLM con flujos reales de ingeniería.",
+        "Desarrollo pmp en Rust (Tokio, rmcp, Ratatui, SQLite), un gestor de proyectos en terminal con servidor MCP integrado, control de dependencias y compactación de versiones para desarrollo asistido por IA."
+      ]
+    },
+    {
+      "role": "Senior Backend Engineer",
+      "period": "Anterior",
+      "description": "Lideré la evolución de frameworks de automatización de pruebas funcionales en Java y TypeScript para entornos enterprise, elevando la fiabilidad de las entregas en equipos distribuidos.",
+      "achievements": [
+        "Diseñé y mantuve la arquitectura de frameworks corporativos de testing funcional en Java y TypeScript, facilitando que múltiples equipos validaran sus servicios de forma homogénea.",
+        "Reduje el esfuerzo manual de regresión y acorté los ciclos de feedback en CI/CD mediante abstracciones reutilizables y pruebas automatizadas mantenibles.",
+        "Acompañé técnicamente a equipos de desarrollo en buenas prácticas de calidad, diseño limpio y resolución de bloqueos en el ciclo de entrega."
+      ]
+    },
+    {
+      "role": "Middle Developer",
+      "period": "Anterior",
+      "description": "Desarrollé librerías corporativas, starters y microservicios cloud-native con Java, Spring Boot y Kafka en Kubernetes, acelerando la entrega de servicios en producción.",
+      "achievements": [
+        "Construí librerías y starters en Java y Spring Boot que estandarizaron la configuración transversal y aceleraron el arranque de nuevos microservicios.",
+        "Implementé arquitecturas orientadas a eventos y APIs REST con Spring Boot y Apache Kafka, garantizando integraciones desacopladas y resilientes.",
+        "Preparé y evolucioné despliegues contenerizados en clústeres de Kubernetes para entornos enterprise de alta disponibilidad."
+      ]
+    },
+    {
+      "role": "Junior Developer",
+      "period": "Inicios",
+      "description": "Construí servicios backend en JavaEE y aplicaciones frontend en Angular sobre bases de datos relacionales, consolidando una base sólida en calidad y desarrollo full-stack.",
+      "achievements": [
+        "Desarrollé microservicios REST con JavaEE sobre WebLogic y modelado SQL, dando soporte a flujos críticos de negocio.",
+        "Incorporé testing unitario sistemático y control de calidad estático desde las primeras fases del desarrollo para minimizar incidencias.",
+        "Implementé interfaces web con Angular conectadas a servicios backend, aportando visión extremo a extremo en el equipo."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "pmp · Project Management Program",
+      "tagline": "Gestor de proyectos en terminal con servidor MCP integrado para agentes de IA",
+      "status": "En desarrollo · Open Source",
+      "description": "Elimina el cambio de contexto entre el editor, la terminal y herramientas web pesadas: permite gestionar proyectos, versiones y dependencias desde una TUI ultrarrápida y exponer todo el flujo a agentes de IA mediante Model Context Protocol.",
+      "highlights": [
+        "Interfaz interactiva en terminal (TUI) con Ratatui y Crossterm, persistencia local en SQLite con migraciones embebidas y validación de grafos de dependencias entre tareas.",
+        "Servidor MCP nativo (pmp mcp) sobre Tokio y rmcp con contratos JSON Schema, recursos y compactación de versiones para que agentes como Claude, OpenCode o pi planifiquen y actualicen tareas de forma autónoma.",
+        "En evolución hacia un ecosistema completo con documentación dedicada (pmp-docs) y servicios cloud (pmp-cloud con OAuth + API REST + Angular + PostgreSQL)."
+      ],
+      "stack": [
+        {
+          "name": "Rust",
+          "category": "Lenguaje · Edition 2024",
+          "description": "Base del binario pmp: proporciona arranque instantáneo, seguridad de memoria y un único ejecutable ligero tanto para la interfaz TUI como para el servidor MCP."
+        },
+        {
+          "name": "MCP (rmcp)",
+          "category": "Protocolo de Agentes IA",
+          "description": "Implementación del servidor Model Context Protocol que expone proyectos, versiones, tareas, notas y compactación de contexto directamente a agentes como Claude, OpenCode o pi."
+        },
+        {
+          "name": "Tokio",
+          "category": "Runtime Asíncrono",
+          "description": "Ejecuta de forma concurrente y no bloqueante el transporte de entrada/salida del servidor MCP y las operaciones de coordinación con el agente."
+        },
+        {
+          "name": "Ratatui",
+          "category": "Interfaz de Terminal (TUI)",
+          "description": "Construye la experiencia visual en consola orientada a teclado junto a Crossterm, con vistas de proyectos, versiones, dependencias y edición en tiempo real."
+        },
+        {
+          "name": "SQLite",
+          "category": "Persistencia Embebida",
+          "description": "Almacenamiento local sin servidores externos mediante rusqlite y migraciones versionadas con refinery, garantizando privacidad e integridad referencial."
+        },
+        {
+          "name": "JSON Schema",
+          "category": "Contratos Tipados",
+          "description": "Generación automática de esquemas con schemars y serde para validar las entradas y salidas de cada tool invocada por los modelos LLM."
+        }
+      ],
+      "repositoryUrl": "https://github.com/dtorrensf/pmp"
+    }
+  ]
+}
