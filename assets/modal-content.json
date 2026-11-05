@@ -227,7 +227,8 @@
           "description": "Generación automática de esquemas con schemars y serde para validar las entradas y salidas de cada tool invocada por los modelos LLM."
         }
       ],
-      "repositoryUrl": "https://github.com/dtorrensf/pmp"
+      "repositoryUrl": "https://github.com/dtorrensf/pmp",
+  "webUrl": "https://diegotf.es/pmp-docs/"
     }
   ]
 }
